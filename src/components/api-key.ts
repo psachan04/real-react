@@ -1,0 +1,1 @@
+export const key = 'https://financialmodelingprep.com/api/v3/income-statement/AAPL?period=annual&apikey=dd83BzfFm66m2arbFWZnz2ETQMo2Xe8h';
